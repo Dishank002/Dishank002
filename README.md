@@ -4,15 +4,14 @@ Welcome to my GitHub profile! I'm passionate about building cool and impactful p
 
 ## 🚀 About Me
 
-- 🎓 I'm pursuing a degree in **Computer Engineering**.
-- 🛠️ I love working with **C#**, **HTML**, **CSS**, **SQL**, **React.js**, and **Python**.
-- 🌱 Currently learning **Data Structures & Algorithms** and diving deeper into **Machine Learning**.
+- 🎓 I'm **Computer Engineer**.
+- 🌱 Currently learning **Machine Learning and Deep Learning** to diving deeper into **Artificial Intelligence**.
 - 🧠 Exploring AI/ML, web development, and software engineering.
 - 💼 Currently interning and gaining corporate project experience.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: C#, Python, HTML5, CSS3, JavaScript, SQL
+- **Languages**:Java, C#, Python, HTML5, CSS3, JavaScript, SQL
 - **Frameworks/Libraries**: React.js, .NET Framework
 - **Databases**: MySQL, SQL Server
 - **Tools**: Visual Studio, VS Code, Git, GitHub, SSMS
