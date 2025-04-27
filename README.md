@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm passionate about building cool and impactful p
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Dishank Girase](https://www.linkedin.com/in/dishank-girase/)
-- Email: dishank.girase@example.com *(replace with your real email if you want)*
+- LinkedIn: [Dishank Girase](https://www.linkedin.com/in/dishankgirase/)
+- Email: dishugirase002@gmail.com
 
 ---
 
